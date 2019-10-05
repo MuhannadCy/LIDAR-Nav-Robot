@@ -10,3 +10,4 @@ This Repo is to combine the works of:
 * Test HectorSLAM
 * Run ROS on multiple machines (Laptop as Master, and Raspberry Pi 3 B+ as Slave)
 * Test if we need odometry data with SLAM or not.
+* Navigating to specific destination given a map.
