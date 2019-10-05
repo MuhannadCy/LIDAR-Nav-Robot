@@ -2,7 +2,7 @@
 
 This Repo is to combine the works of:
 * Abdulaziz Khashogji
-* Muhannad AlAnazy
+* Muhannad Alanazi
 * Salahudean Tohmeh
 
 ### Tasks:
